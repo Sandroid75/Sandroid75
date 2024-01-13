@@ -22,8 +22,6 @@ Finally today I coding only for fun!
 <img src="icon/SQLite.svg" width="64" height="auto" />
 <img src="icon/GTK.svg" width="64" height="auto" />
 <img src="icon/AutoCAD.svg" width="64" height="auto" />
-<img src="icon/HTML.svg" width="64" height="auto" />
-<img src="icon/Gmail.svg" width="64" height="auto" />
 <img src="icon/RaspberryPi.svg" width="64" height="auto" />
 <img src="icon/Watcom.svg" width="44" height="auto" />
 <img src="icon/MS-DOS.svg" width="60" height="auto" />
